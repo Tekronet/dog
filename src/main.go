@@ -122,3 +122,4 @@ func printInfo(path string) {
 	fmt.Println("Word count: " + strconv.Itoa(wordCount))
 	fmt.Println("Line count: " + strconv.Itoa(lineCount))
 }
+//witam to jest teraz pisane
